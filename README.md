@@ -14,11 +14,10 @@ An end-to-end data engineering project that automates the collection, processing
 
 This project demonstrates a complete three-stage data pipeline for turning raw, messy web data into actionable insights.
 
-1.  **Automated Data Fetching**: A robust Selenium script (`fetch_vahan.py`) navigates the official Vahan dashboard, handles dynamic web elements, and downloads the latest registration data by "Maker" and "Vehicle Category".
-2.  **Production-Grade Data Processing**: A powerful script (`process_registrations.py`) reads messy, multi-level header Excel files, cleans them, transforms the data from wide to tidy format, and combines them into a single, analysis-ready CSV file.
-3.  **Interactive Analytics Dashboard**: A professional Streamlit application (`app.py`) that allows users to dynamically filter and explore the data with beautiful, interactive charts and KPIs powered by Plotly.
+1.  **Automated Data Fetching**: A robust Selenium script  navigates the official Vahan dashboard, handles dynamic web elements, and downloads the latest registration data by "Maker" and "Vehicle Category".
+2.  **Production-Grade Data Processing**: A powerful script  reads messy, multi-level header Excel files, cleans them, transforms the data from wide to tidy format, and combines them into a single, analysis-ready CSV file.
+3.  **Interactive Analytics Dashboard**: A professional Streamlit application that allows users to dynamically filter and explore the data with beautiful, interactive charts and KPIs powered by Plotly.
 
-![Project Workflow](https://placehold.co/800x250/0E1117/FFFFFF?text=Fetch%20Data%20%E2%9E%A1%20Process%20Data%20%E2%9E%A1%20Visualize%20Dashboard&font=roboto)
 
 
 
