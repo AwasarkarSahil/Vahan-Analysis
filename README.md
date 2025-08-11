@@ -20,13 +20,7 @@ This project demonstrates a complete three-stage data pipeline for turning raw, 
 
 ![Project Workflow](https://placehold.co/800x250/0E1117/FFFFFF?text=Fetch%20Data%20%E2%9E%A1%20Process%20Data%20%E2%9E%A1%20Visualize%20Dashboard&font=roboto)
 
-## 🛠️ Tech Stack
 
-| Component           | Technology                            |
-| ------------------- | ------------------------------------- |
-| **Data Fetching** | `Python`, `Selenium`, `webdriver-manager` |
-| **Data Processing** | `Python`, `Pandas`                      |
-| **Dashboard** | `Streamlit`, `Plotly`                   |
 
 ## 📈 Key Dashboard Features
 
